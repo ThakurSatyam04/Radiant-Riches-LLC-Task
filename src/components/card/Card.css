@@ -104,7 +104,7 @@ body{
     color: #0080ff;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1000px) {
     .card-body{
         position: relative;
         width: 70%;
