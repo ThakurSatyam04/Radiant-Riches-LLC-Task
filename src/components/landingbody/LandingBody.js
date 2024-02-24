@@ -11,7 +11,7 @@ const LandingBody = () => {
       <div>
         <Header/>
         <Cards/>
-        {/* <DealSection/> */}
+        <DealSection/>
       </div>
       <div style={{maxWidth:"900px", margin:"auto", display:"flex", fontSize:"1.2rem", display:"flex ", alignItems:"center", justifyContent:"center"}}>
         <h1>Sign up and get exclusive special deals</h1>
