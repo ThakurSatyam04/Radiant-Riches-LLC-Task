@@ -1,0 +1,19 @@
+.footer-container{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 250px;
+    margin-top: 4rem;
+}
+
+.footer-content{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-content ul{
+    list-style: none;
+}
